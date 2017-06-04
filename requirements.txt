@@ -1,0 +1,6 @@
+matplotlib
+pyart
+metpy
+numpy
+multiprocessing
+pymongo
